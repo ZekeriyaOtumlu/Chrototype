@@ -1,4 +1,4 @@
-// Grab the articles as a json
+
 $("#scrape").on("click",function(){
     
 $.getJSON("/articles", function(data) {
