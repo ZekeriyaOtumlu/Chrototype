@@ -9,7 +9,7 @@ In this assignment, create a web app that lets users view and leave comments on 
 
 ## Demo
 
-![Scraper](homework\Scrape\Chrototype\images\Scraper.PNG)
+![Scraper](https://user-images.githubusercontent.com/45694823/73795400-828abf00-4778-11ea-9b21-9d88c1173b30.PNG)
 
 To view the app go to:
 
